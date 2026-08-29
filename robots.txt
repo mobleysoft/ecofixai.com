@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ecofixai.com/sitemap.xml
